@@ -9,7 +9,9 @@
 1. Baixe o repositório
 2. Abra o arquivo "index.html"
 
-![site](imagens\site.png)
+<div align="center">
 
+<img src="/imagens/site.png">
 
+</div>
 
